@@ -24,7 +24,7 @@ O presente trabalho se trata de projeto de conclusão de curso, com o objetivo d
 
 * Simone Fernandes Queiroz
 
-# Planejamento
+## Planejamento
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
