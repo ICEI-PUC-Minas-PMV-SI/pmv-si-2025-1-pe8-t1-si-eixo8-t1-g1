@@ -3,7 +3,7 @@
 
 **2.1. INTRODUÇÃO**
 
-A presente etapa se trata do desenvolvimento de um plano de inteligência competitiva, em que, após identificar, analisar e estruturar as devidas necessidades, buscará garantir “_que as decisões estratégicas sejam fundamentadas em dados relevantes e bem estruturados_“.[^1] No decorrer desta etapa projeto, será identificada quais as principais decisões críticas a serem tomadas, bem como serão mapeadas as questões estratégias. Tudo isto, com o objetivo de que as decisões tomadas pela empresa sejam com o suporte de informações colhidas de forma confiável.
+A presente etapa se trata do desenvolvimento de um plano de inteligência competitiva, em que, após identificar, analisar e estruturar as devidas necessidades, buscará garantir “_que as decisões estratégicas sejam fundamentadas em dados relevantes e bem estruturados_“.[^1] No decorrer desta etapa projeto, será identificada quais as principais decisões críticas a serem tomadas, bem como serão mapeadas as questões estratégicas. Tudo isto, com o objetivo de que as decisões tomadas pela empresa sejam com o suporte de informações colhidas de forma confiável.
 
 A primeira etapa será subdivida em 8 tópicos: **1 –** Introdução; **2 –** Identificação das Necessidades de IC; **3 -** Identificação das Necessidades de Informação ; **4 –** Planejamento da coleta e armazenamento de dados; **5 -** Análise de Dados e Registro de Informações; **6 -** Disseminação e Utilização das Informações; **7 -** Avaliação do Processo de IC; e **8 -** Compliance de TI e Segurança da Informação.
 
@@ -25,13 +25,13 @@ B - Decisões Externas (Macroambiente):
 
 \- Verificar tendências de consumo no setor de cafeterias;
 
-\- Entender mudanças econômicas afetam a viabilidade de preços e margens de lucro;
+\- Entender como mudanças econômicas afetam a viabilidade de preços e margens de lucro;
 
 C - Decisões Externas (Microambiente):
 
 \- Posicionar frente à concorrência no município;
 
-\- Melhorar marketing os concorrentes estão utilizando;
+\- Melhorar marketing e comparar com o que os concorrentes estão utilizando;
 
 A partir disto, a **escolha de uma decisão-chave** foi decidida pela equipe em conjunto, sendo determinada como “Melhorar a fidelização de clientes”. Em sequência, como **Definição do KIT (Key Intelligence Topic),** adotou-se _“Preferências de consumo dos clientes e estratégias de fidelização_”.
 
@@ -41,7 +41,7 @@ Assim, na **formulação das KIQs (Key Intelligence Questions),** tem-se os segu
 
 \- Quais são os tipos de produtos mais consumidos pelos clientes da cafeteria?
 
-\- Qual a frequência que compram os produtos da cafeteria?
+\- Qual a frequência com que compram os produtos da cafeteria?
 
 \- Quais os períodos de maiores sazonalidades e, dentre estes, quais os de maior sucesso (por exemplo, natal, Dia das Mães e etc)?
 
@@ -67,7 +67,7 @@ Os dados necessários para a análise e tomada de decisões foram focados no set
 
 Dito isto, o Brevo será a principal **fonte de informação** para o presente projeto da referida cafeteria, atuando como uma plataforma centralizada para coleta, análise e distribuição de dados valiosos sobre as preferências e comportamentos dos clientes. Com suas funcionalidades de automação de marketing, o Brevo permite segmentar a base de clientes de acordo com suas preferências individuais, como tipos de produtos preferidos, frequência de pedidos etc.
 
-Essa coleta de dados, aliada à integração com o WhatsApp, possibilita que a cafeteria envie mensagens personalizadas e em tempo real, atendendo às necessidades específicas de cada cliente. Além disso, a plataforma facilita o envio de campanhas de email marketing e SMS, permitindo uma comunicação contínua e relevante, o que torna o Brevo essencial para entender e atender de forma eficiente às demandas de informação dos clientes.
+Essa coleta de dados, aliada à integração com o WhatsApp, possibilitará que a cafeteria envie mensagens personalizadas e em tempo real, atendendo às necessidades específicas de cada cliente. Além disso, a plataforma facilita o envio de campanhas de email marketing e SMS, permitindo uma comunicação contínua e relevante, o que torna o Brevo essencial para entender e atender de forma eficiente às demandas de informação dos clientes.
 
 **2.4. PLANEJAMENTO DA COLETA E ARMAZENAMENTO DE DADOS**
 
@@ -103,7 +103,7 @@ Os formulários serão moldados para ajudar a coletar as informações necessár
 
 Inicialmente, **definiu-se como formatos de apresentação** Dashboards (para visualização de informações como perfil de clientes, preferências de consumo e tendências) e Relatórios (gerados pelo brevo para observação de métricas, como número de clientes fidelizados).
 
-Para isto, como **escolha de ferramentas para diesseminação das informações foi o Brevo** (para integrar e aplicar os insights na gestão do relacionamento com os clientes), bem como a utilização do Power BI (a partir da utilização do sistema para demonstrar, mais claramente, os dados gerados com a cafeteria) ou algum outro tipo de dashboard customizável.
+Para isto, como **escolha de ferramentas para disseminação das informações foi o Brevo** (para integrar e aplicar os insights na gestão do relacionamento com os clientes), bem como a utilização do Power BI (a partir da utilização do sistema para demonstrar, mais claramente, os dados gerados com a cafeteria) ou algum outro tipo de dashboard customizável.
 
 De mais a mais, para a **garantia de aplicabilidade,** será prezado o **compartilhamento** das informações com as equipes responsáveis pela implementação das estratégias, além do **acompanhamento** do uso dos insights nos processos decisórios com **ajustes contínuos** com base no feedback e nos resultados observados.
 
@@ -115,15 +115,15 @@ A partir da **revisão das etapas anteriores,** busca-se entender se as informa�
 
 Com base nas perguntas feitas ao responsável pelo estabelecimento, os feedbacks dos clientes são feitos de forma pessoal ou comentários em suas redes sociais, mas se percebeu que a amostra poderia ser maior e mais aprofundada, com necessidade de serem guardas em um sistema de banco de dados.
 
-Atualmente, o estabelecimento tem uma pequena base de cadastramento de clientes via Brevo. Logo, observou-se uma necessidade de um maior cadastro de cliente virtuais, de forma automatizada nas plataformas de vendas do estabelecimento, para obtenção de informações que ajude na fidelização dos clientes e uma análise aprofundas das vendas online.
+Atualmente, o estabelecimento tem uma pequena base de cadastramento de clientes via Brevo. Logo, observou-se uma necessidade de um maior cadastro de clientes virtuais, de forma automatizada nas plataformas de vendas do estabelecimento, para obtenção de informações que ajudem na fidelização dos clientes e uma análise aprofundas das vendas online.
 
 Portanto, na **Coleta de Feedback,** as percepções dos usuários finais (tomadores de decisão): são de grande importância, ao passo que, por ora, consideraram os insights valiosos, mas gostariam de recomendações mais práticas para aumentar a retenção de clientes.
 
-Dito isto, como **ajustes e recomendações**, sugere-se um melhor uso da plataforma Brevo (para melhorar a fidelização dos clientes, e uma base de dados de clientes), com uma subsequente utilização dos dados gerados para melhor entendimento da sua base de clientes.
+Dito isto, como **ajustes e recomendações**, sugere-se um melhor uso da plataforma Brevo (para melhorar a fidelização dos clientes, e como uma base de dados de clientes), com uma subsequente utilização dos dados gerados para melhor entendimento da sua base de clientes.
 
 **2.8. COMPLIANCE DE TI E SEGURANÇA DA INFORMAÇÃO**
 
-Quanto a este subtópico, frise-se que existe uma preocupação com o cumprimento da Lei Geral de Proteção de Dados Pessoais - LGPD, tendo em vista se tratar de um banco de dados com informações pessoais dos usuários. Desta forma, a partir do **mapeamento de requisitos regulatórios**, busca-se identificar aspectos legais e normativos do uso de TI no processo de IC, garantindo conformidade com a principalmente com a LGPD, bem como outras regulamentações.
+Quanto a este subtópico, frise-se que existe uma preocupação com o cumprimento da Lei Geral de Proteção de Dados Pessoais - LGPD, tendo em vista se tratar de um banco de dados com informações pessoais dos usuários. Desta forma, a partir do **mapeamento de requisitos regulatórios**, busca-se identificar aspectos legais e normativos do uso de TI no processo de IC, garantindo conformidade principalmente com a LGPD, bem como outras regulamentações.
 
 Ainda, no decorrer do projeto, tem-se como foco a proposta de **políticas de segurança** e procedimentos para assegurar a conformidade contínua, incluindo proteção de dados e segurança da informação, com o objetivo de se garantir a conformidade legal e segurança no tratamento dos dados, além das informações.
 
