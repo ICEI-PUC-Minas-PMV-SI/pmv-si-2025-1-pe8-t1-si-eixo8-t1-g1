@@ -65,9 +65,9 @@ Os dados necessários para a análise e tomada de decisões foram focados no set
 
 \- Qual foi avaliação do cliente sobre determinado produto;
 
-Dito isto, o Brevo será a principal **fonte de informação** para o presente projeto da referida cafeteria, atuando como uma plataforma centralizada para coleta, análise e distribuição de dados valiosos sobre as preferências e comportamentos dos clientes. Com suas funcionalidades de automação de marketing, o Brevo permite segmentar a base de clientes de acordo com suas preferências individuais, como tipos de produtos preferidos, frequência de pedidos etc.
+Neste contexto, o Brevo será a principal plataforma utilizada para coletar, analisar e distribuir os dados. O sistema de automação de marketing do Brevo permitirá segmentar a base de clientes com base em suas preferências, como tipos de produtos preferidos e frequência de compras. Com a integração com o WhatsApp, a cafeteria poderá enviar mensagens personalizadas e em tempo real para os clientes, além de campanhas por e-mail e SMS.
 
-Essa coleta de dados, aliada à integração com o WhatsApp, possibilitará que a cafeteria envie mensagens personalizadas e em tempo real, atendendo às necessidades específicas de cada cliente. Além disso, a plataforma facilita o envio de campanhas de email marketing e SMS, permitindo uma comunicação contínua e relevante, o que torna o Brevo essencial para entender e atender de forma eficiente às demandas de informação dos clientes.
+Além disso, será utilizada a plataforma Power BI para a visualização e análise dos dados. O Power BI permitirá criar dashboards dinâmicos e relatórios analíticos, o que proporcionará uma visão mais aprofundada sobre o comportamento dos clientes e suas preferências, ajudando a informar decisões estratégicas.
 
 **2.4. PLANEJAMENTO DA COLETA E ARMAZENAMENTO DE DADOS**
 
@@ -77,7 +77,7 @@ A **identificação das fontes de dados** é um dos primeiros passos desse plane
 
 Para garantir a eficiência na coleta, serão utilizados diferentes **métodos** adaptados à natureza dos dados. Formulários digitais personalizados e integrados ao Brevo serão desenvolvidos para entrada manual de informações pelos usuários, possibilitando maior padronização e controle. Também será possível realizar importações manuais de dados existentes para a plataforma, garantindo a consolidação de informações já disponíveis. Outro recurso que será discutido, poderá ser o uso de landing pages e campanhas automatizadas para captação direta de dados a partir da interação com o público. Quando aplicável, dispositivos inteligentes e sensores poderão ser utilizados para envio de informações em tempo real ao Brevo.
 
-A **estruturação do armazenamento** será centrada na própria plataforma do Brevo, que funcionará como o ambiente principal para organização, segmentação e gestão dos dados. Em fases iniciais ou de apoio, planilhas poderão ser utilizadas para organização preliminar. Os dados serão classificados por categorias e tags dentro do sistema, facilitando buscas e segmentações futuras. A plataforma também permitirá integração com ferramentas de Business Intelligence, possibilitando visualizações analíticas por meio de dashboards e relatórios automatizados.
+A **estruturação do armazenamento** será centrada na própria plataforma do Brevo, que funcionará como o ambiente principal para organização, segmentação e gestão dos dados. Em fases iniciais ou de apoio, planilhas poderão ser utilizadas para organização preliminar. Os dados serão classificados por categorias e tags dentro do sistema, facilitando buscas e segmentações futuras. A plataforma também permitirá integração com ferramentas de Business Intelligence, como o Power BI, possibilitando visualizações analíticas por meio de dashboards e relatórios automatizados.
 
 A **avaliação das fontes de dados** seguirá critérios de confiabilidade e compatibilidade com o sistema. Relatórios internos serão aproveitados, embora possam necessitar de padronização para uso eficiente. Pesquisas internas e de mercado serão utilizadas como fontes complementares, desde que estejam organizadas em formatos compatíveis com o Brevo. Além disso, dados de órgãos reguladores e consultorias especializadas serão considerados importantes, desde que contribuam de forma estruturada para a base de dados.
 
@@ -93,7 +93,7 @@ Como **estratégia de análise**, focaremos nas seguintes funcionalidades:
 - Formulários;
 - Relatórios de vendas;
 
-No cadastro, o cliente poderá selecionar que tipos de informações ele deseja receber da cafeteria, de acordo com suas escolhas ele vai receber as novidades que mais lhe agradam via whatsapp, podendo cancelar a qualquer momento. Através dessas listas de inscrições, pode se ter uma noção do número de pessoas interessadas e moldar suas estratégias de venda e divulgação.
+Esses dados serão integrados ao Power BI, permitindo a criação de dashboards personalizados que ajudarão a entender o perfil dos clientes, suas preferências e os períodos de maior consumo. Com isso, será possível ajustar as estratégias de vendas e promoções, otimizando a fidelização dos clientes.
 
 Com ajuda dos dashboards também será possível medir os interesses dos clientes, ajudando na elaboração de promoções e eventos. Como exemplo, itens comprados com frequência pelos mesmo clientes e períodos de maior saída de produtos.
 
@@ -109,17 +109,17 @@ De mais a mais, para a **garantia de aplicabilidade,** será prezado o **compart
 
 **2.7. AVALIAÇÃO DO PROCESSO DE IC**
 
-Neste subtópico, a **atividade** avaliada no projeto é o impacto da fidelização de consumidores a partir da utilização do Brevo, bem como a partir de dados obtidos com esta funcionalidade. O período de análise será entre 2 à 4 meses.
+Neste subtópico, a **atividade** avaliada no projeto é a avaliação do impacto da fidelização com base nos dados obtidos pelo Brevo e analisados no Power BI. O período de análise será entre 2 à 4 meses.
 
-A partir da **revisão das etapas anteriores,** busca-se entender se as informações obtidas foram suficientes. De início, foi coletada informações por meio de entrevistas com responsável pelo estabelecimento e observação no local.
+A partir da **revisão das etapas anteriores,** busca-se entender se as informações coletadas e as estratégias aplicadas resultaram em melhorias significativas na fidelização dos clientes, bem como melhor entender o perfil do cliente da cafeteria.
 
-Com base nas perguntas feitas ao responsável pelo estabelecimento, os feedbacks dos clientes são feitos de forma pessoal ou comentários em suas redes sociais, mas se percebeu que a amostra poderia ser maior e mais aprofundada, com necessidade de serem guardas em um sistema de banco de dados.
+Com base nas perguntas feitas ao responsável pelo estabelecimento, os feedbacks dos clientes são feitos de forma pessoal ou comentários em suas redes sociais, mas se percebeu que a amostra poderia ser maior e mais aprofundada, com necessidade de serem guardas em um sistema de banco de dados, bem como a possibilidade de gerar relatórios para melhor entender suas clientela.
 
 Atualmente, o estabelecimento tem uma pequena base de cadastramento de clientes via Brevo. Logo, observou-se uma necessidade de um maior cadastro de clientes virtuais, de forma automatizada nas plataformas de vendas do estabelecimento, para obtenção de informações que ajudem na fidelização dos clientes e uma análise aprofundas das vendas online.
 
 Portanto, na **Coleta de Feedback,** as percepções dos usuários finais (tomadores de decisão): são de grande importância, ao passo que, por ora, consideraram os insights valiosos, mas gostariam de recomendações mais práticas para aumentar a retenção de clientes.
 
-Dito isto, como **ajustes e recomendações**, sugere-se um melhor uso da plataforma Brevo (para melhorar a fidelização dos clientes, e como uma base de dados de clientes), com uma subsequente utilização dos dados gerados para melhor entendimento da sua base de clientes.
+Dito isto, como **ajustes e recomendações**, sugere-se um melhor uso da plataforma Brevo (para melhorar a fidelização dos clientes, e como uma base de dados de clientes), bem como a criação de Relatórios e Dashboards no Power BI, com uma subsequente utilização dos dados gerados para melhor entendimento da sua base de clientes.
 
 **2.8. COMPLIANCE DE TI E SEGURANÇA DA INFORMAÇÃO**
 
