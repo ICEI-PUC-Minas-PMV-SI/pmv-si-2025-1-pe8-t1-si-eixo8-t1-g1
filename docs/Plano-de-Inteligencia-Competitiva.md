@@ -65,7 +65,7 @@ Os dados necessários para a análise e tomada de decisões foram focados no set
 
 \- Qual foi avaliação do cliente sobre determinado produto;
 
-Neste contexto, o Brevo será a principal plataforma utilizada para coletar, analisar e distribuir os dados. O sistema de automação de marketing do Brevo permitirá segmentar a base de clientes com base em suas preferências, como tipos de produtos preferidos e frequência de compras. Com a integração com o WhatsApp, a cafeteria poderá enviar mensagens personalizadas e em tempo real para os clientes, além de campanhas por e-mail e SMS.
+Neste contexto, o Brevo será a principal **fonte de informação** utilizada para coletar, analisar e distribuir os dados, entretanto, não estão descartados demais dados que possam ser utilizados no Power BI. O sistema de automação de marketing do Brevo permitirá segmentar a base de clientes com base em suas preferências, como tipos de produtos preferidos e frequência de compras. Com a integração com o WhatsApp, a cafeteria poderá enviar mensagens personalizadas e em tempo real para os clientes, além de campanhas por e-mail e SMS.
 
 Além disso, será utilizada a plataforma Power BI para a visualização e análise dos dados. O Power BI permitirá criar dashboards dinâmicos e relatórios analíticos, o que proporcionará uma visão mais aprofundada sobre o comportamento dos clientes e suas preferências, ajudando a informar decisões estratégicas.
 
