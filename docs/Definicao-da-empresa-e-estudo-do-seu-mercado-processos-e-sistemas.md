@@ -2,7 +2,7 @@
 
 ## 1.1 Introdução
 
-O presente trabalho se trata de projeto de conclusão de curso, com o objetivo de promover um estudo de negócio e de mercado da empresa Zuzunely, aplicando os conhecimentos de tecnologia de informação apresentados no decorrer do curso. No decorrer do projeto, será desenvolvido uma consultoria na área de nosso estudo, buscando apresentar soluções práticas a realidades enfrentadas pela empresa.
+O presente trabalho se trata de projeto de conclusão de curso, com o objetivo de promover um estudo de negócio e de mercado da empresa Zuzunely, aplicando os conhecimentos de tecnologia de informação apresentados no decorrer do curso. No decorrer do projeto, será desenvolvido uma consultoria na área de nosso estudo, buscando apresentar soluções práticas a realidades enfrentadas pela empresa. Em complemento, será realizada a análise dos dados fornecidos pela empresa, com o uso do Power BI, para um melhor entendimento sobre o comportamento dos clientes da cafeteria.
 
 A primeira etapa será subdivida em cinco tópicos: 1 – Introdução; 2 – Descrição da empresa; 3 – Análise de mercado; 4 – Matriz SWOT; e 5 – Mapeamento de processos de negócios.
 
@@ -129,7 +129,9 @@ As melhorias inicialmente propostas são divididas em físicas e virtuais. Pelas
 
 Para o meio virtual, a empresa possui uma boa estrutura inicial, com um sistema ERP, bem como sistemas que auxiliam no gerenciamento de redes sociais. A sugestão é que a empresa foque, também, em banco dados, para melhor gerenciar, por exemplo, os produtos mais e menos vendidos, facilitando assim o acompanhamento de estoque, com uma visão mais voltada ao real consumo realizado pelos clientes.
 
-Para isso, sugere-se uma a melhor capacitação da equipe com as ferramentas já disponibilizadas, além de implementação de ferramentas de análise de dados como Power Bi, para melhor compreensão das vendas e dos seus clientes atendidos.
+Para isso,a melhoria proposta para o uso das ferramentas da empresa foca na coleta e análise de dados dos clientes, utilizando o Power BI para gerar relatórios mais detalhados e insights valiosos. Os dados obtidos por meio do Brevo (como histórico de compras, preferências de produtos e interações com campanhas) serão integrados ao Power BI para criar dashboards interativos, que permitirão à equipe da Zuzunely compreender melhor o perfil dos clientes, o desempenho de vendas e identificar oportunidades de personalização do atendimento e campanhas de marketing.
+
+Além disso, iremos sugerir a viabilidade de implementação de análises de vendas por perfil de cliente, facilitando a adaptação de estratégias promocionais e de estoque conforme o comportamento de consumo. O uso dessas ferramentas pode contribuir para otimizar o relacionamento com os clientes, melhorar a experiência de compra e impulsionar a fidelização.
 
 Deste modo, a análise dos processos e sistemas da empresa revela que, tanto no ambiente físico quanto no virtual, há uma estrutura sólida, mas com oportunidades para otimização e melhoria. O uso de ferramentas automatizadas já existentes demonstra um bom nível de digitalização e organização. No entanto, algumas áreas podem se beneficiar de aprimoramentos para impulsionar o desempenho e a rentabilidade, além de promoverem uma maior integração dos processos, otimização de recursos e, principalmente, uma maior satisfação do cliente.
 
