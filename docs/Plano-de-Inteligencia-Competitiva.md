@@ -1,13 +1,13 @@
 
-**ETAPA 2**
+# ETAPA 2
 
-**2.1. INTRODUÇÃO**
+## 2.1. Introdução
 
 A presente etapa se trata do desenvolvimento de um plano de inteligência competitiva, em que, após identificar, analisar e estruturar as devidas necessidades, buscará garantir “_que as decisões estratégicas sejam fundamentadas em dados relevantes e bem estruturados_“.[^1] No decorrer desta etapa projeto, será identificada quais as principais decisões críticas a serem tomadas, bem como serão mapeadas as questões estratégicas. Tudo isto, com o objetivo de que as decisões tomadas pela empresa sejam com o suporte de informações colhidas de forma confiável.
 
 A primeira etapa será subdivida em 8 tópicos: **1 –** Introdução; **2 –** Identificação das Necessidades de IC; **3 -** Identificação das Necessidades de Informação ; **4 –** Planejamento da coleta e armazenamento de dados; **5 -** Análise de Dados e Registro de Informações; **6 -** Disseminação e Utilização das Informações; **7 -** Avaliação do Processo de IC; e **8 -** Compliance de TI e Segurança da Informação.
 
-**2.2. IDENTIFICAÇÃO DAS NECESSIDADES DE IC**
+## 2.2. Identificação das necessidades de IC
 
 Esta etapa tem como objetivo compreender quais são as decisões estratégicas da cafeteria Zuzunely e as lacunas de informações atuais que podem ser preenchidas com inteligência de mercado.
 
@@ -47,7 +47,7 @@ Assim, na **formulação das KIQs (Key Intelligence Questions),** tem-se os segu
 
 \- Qual a média de valor gasto por cliente?
 
-**2.3. IDENTIFICAÇÃO DAS NECESSIDADES DE INFORMAÇÃO**
+## 2.3. Identificação das necessidades de informação
 
 Os dados necessários para a análise e tomada de decisões foram focados no setor mercadológico da empresa. A partir do **mapeamento dos tipos de informação**, os dados buscam melhora do entendimento da empresa sobre os dias com mais frequência dos pedidos online, produtos mais vendidos, comportamento dos clientes, entre outras possíveis necessidades mercadológicas, como, por exemplo, as seguintes **priorizações** dos tipos de informação:
 
@@ -69,7 +69,7 @@ Neste contexto, o Brevo será a principal **fonte de informação** utilizada pa
 
 Além disso, será utilizada a plataforma Power BI para a visualização e análise dos dados. O Power BI permitirá criar dashboards dinâmicos e relatórios analíticos, o que proporcionará uma visão mais aprofundada sobre o comportamento dos clientes e suas preferências, ajudando a informar decisões estratégicas.
 
-**2.4. PLANEJAMENTO DA COLETA E ARMAZENAMENTO DE DADOS**
+## 2.4. Planejamento da coleta e armazenamento de dados 
 
 O planejamento da coleta e armazenamento de dados tem como objetivo estruturar um processo eficiente para alimentar a futura solução tecnológica. Nesse sentido, foram definidas ações estratégicas para garantir a organização, a precisão e o aproveitamento dos dados coletados ao longo do projeto.
 
@@ -83,7 +83,7 @@ A **avaliação das fontes de dados** seguirá critérios de confiabilidade e co
 
 Por fim, **o planejamento operacional** da coleta prevê a definição da periodicidade, que poderá variar conforme a necessidade — podendo ser diária, semanal ou mensal. Também serão atribuídas responsabilidades claras dentro da equipe. Um coordenador de dados será responsável por supervisionar todo o processo de coleta e garantir a qualidade das informações. A equipe de coleta terá como função alimentar e revisar os dados inseridos na plataforma, enquanto a equipe de suporte técnico cuidará da manutenção do sistema, das importações e da automação dos processos. O Brevo será utilizado não apenas como repositório de dados, mas também como ferramenta de automação de fluxos de entrada e atualização, além de se integrar a ferramentas de análise para geração contínua de relatórios e visualizações estratégicas.
 
-**2.5. ANÁLISE DE DADOS E REGISTRO DE INFORMAÇÕES**
+## 2.5. Análise de dados e registro de informações
 
 O **Brevo** foi a **ferramenta de análise** escolhida pois já é utilizada pela cafeteria no gerenciamento de clientes, porém de forma muito básica. Nosso intuito é se aprofundar em sua usabilidade a fim de tirar maior proveito de suas funcionalidades. A ferramenta possui a capacidade de gerenciar uma base de dados com as informações dos clientes, podendo ser utilizada para contatos personalizados e automatizados com os clientes, além de dashboards para ajudar na análise de vendas.
 
@@ -99,7 +99,7 @@ Com ajuda dos dashboards também será possível medir os interesses dos cliente
 
 Os formulários serão moldados para ajudar a coletar as informações necessárias para responder às KIQs, bem como na eventual **geração de insights**. Esses dados serão responsáveis por alimentar a base de dados e consequentemente moldar os dashboards.
 
-**2.6. DISSEMINAÇÃO E UTILIZAÇÃO DAS INFORMAÇÕES**
+## 2.6. Disseminação e utilização das informações 
 
 Inicialmente, **definiu-se como formatos de apresentação** Dashboards (para visualização de informações como perfil de clientes, preferências de consumo e tendências) e Relatórios (gerados pelo brevo para observação de métricas, como número de clientes fidelizados).
 
@@ -107,7 +107,7 @@ Para isto, como **escolha de ferramentas para disseminação das informações f
 
 De mais a mais, para a **garantia de aplicabilidade,** será prezado o **compartilhamento** das informações com as equipes responsáveis pela implementação das estratégias, além do **acompanhamento** do uso dos insights nos processos decisórios com **ajustes contínuos** com base no feedback e nos resultados observados.
 
-**2.7. AVALIAÇÃO DO PROCESSO DE IC**
+## 2.7. Avaliação do processo de IC
 
 Neste subtópico, a **atividade** avaliada no projeto é a avaliação do impacto da fidelização com base nos dados obtidos pelo Brevo e analisados no Power BI. O período de análise será entre 2 à 4 meses.
 
@@ -121,7 +121,7 @@ Portanto, na **Coleta de Feedback,** as percepções dos usuários finais (tomad
 
 Dito isto, como **ajustes e recomendações**, sugere-se um melhor uso da plataforma Brevo (para melhorar a fidelização dos clientes, e como uma base de dados de clientes), bem como a criação de Relatórios e Dashboards no Power BI, com uma subsequente utilização dos dados gerados para melhor entendimento da sua base de clientes.
 
-**2.8. COMPLIANCE DE TI E SEGURANÇA DA INFORMAÇÃO**
+## 2.8. Compliance de TI e segurança da informação
 
 Quanto a este subtópico, frise-se que existe uma preocupação com o cumprimento da Lei Geral de Proteção de Dados Pessoais - LGPD, tendo em vista se tratar de um banco de dados com informações pessoais dos usuários. Desta forma, a partir do **mapeamento de requisitos regulatórios**, busca-se identificar aspectos legais e normativos do uso de TI no processo de IC, garantindo conformidade principalmente com a LGPD, bem como outras regulamentações.
 
