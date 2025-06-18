@@ -1,6 +1,6 @@
 # Projeto de Conclusão de Curso
 
-## Estudo de negócio e de mercado da empresa Zuzunely 
+## Estudo de negócio e de mercado da empresa Sacolão e Família 
 
 `CURSO: Sistemas de Informação`
 
@@ -8,7 +8,7 @@
 
 `SEMESTRE: 8º`
 
-O presente trabalho se trata de projeto de conclusão de curso, com o objetivo de promover um estudo de negócio e de mercado da empresa Zuzunely, aplicando os conhecimentos de tecnologia de informação apresentados no decorrer do curso. No decorrer do projeto, será desenvolvido uma consultoria na área de nosso estudo, buscando apresentar soluções práticas a realidades enfrentadas pela empresa. 
+O presente trabalho se trata de um projeto de conclusão de curso, cujo objetivo é promover um estudo de negócio e de mercado para a empresa Sacolão & Família, aplicando os conhecimentos de tecnologia de informação adquiridos ao longo do curso. Durante o desenvolvimento do projeto, será realizada uma consultoria focada em áreas chave do negócio, com o intuito de propor soluções práticas para as realidades enfrentadas pela empresa. Adicionalmente, será realizada a análise dos dados fornecidos pela empresa, com o uso de ferramentas como o Power BI, para um melhor entendimento sobre o comportamento dos clientes e a otimização dos processos de entrega e vendas.  
 
 ## Integrantes
 
